@@ -3,19 +3,19 @@
 
 // Basic 1
 // • Create a variable x as an empty array []. Log this array to your console.
-let x = [];
-console.log(x);
+// let x = [];
+// console.log(x);
 
 // • Use .push() to add three strings to your array: 'coding', 'dojo', 'rocks'.
-x.push("coding");
-x.push("dojo");
-x.push("rocks");
+// x.push("coding");
+// x.push("dojo");
+// x.push("rocks");
 
 // • Use .pop() to remove the final element of your array.
-x.pop();
+// x.pop();
 
 // • Log the final value of x, what is it?
-console.log(x);
+//console.log(x);
 
 // Basic 2
 // • Create a const called y, and store an empty array there. Log this to your console.
@@ -40,8 +40,8 @@ console.log(x);
 // }
 // Basic 4
 // • Create a variable names and store the array ['Kadie', 'Joe', 'Fritz', 'Pierre', 'Alphonso']
-let names = ['Kadie', 'Joe', 'Fritz', 'Pierre', 'Alphonso'];
-console.log(names)
+//let names = ['Kadie', 'Joe', 'Fritz', 'Pierre', 'Alphonso'];
+
 
 // • Print the length of all names to the console.
 // console.log(names.length);
@@ -49,7 +49,10 @@ console.log(names)
 
 // Basic 5
 // • Create a function yell that takes one parameter called string.
-
 // • Make yell return that string in all uppercase.
 
 // • Where could you look to find out more about uppercasing strings in JavaScript?
+// function yell(string) {
+//     console.log(string.toUpperCase());
+// }
+// yell("hello")
